@@ -51,6 +51,8 @@
 
 ![organization](https://i.gyazo.com/fad51637c1e836891f1c887a63e2288a.png)
 
+![communication](https://i.gyazo.com/65546af081b6ab1943796f52af43c553.png)
+
 ## 5. 避難生活のルールについて
 
 震災救援所での生活と救援活動は、避難者全員で協力して行います。共同生活にはルールが必要ですので、ルールを定めて、これを全員が知っているようにしていきます。  
@@ -79,7 +81,11 @@
 ### 庶務・情報部
 
 #### 庶務
-
+- 震災救援所の立ち上げ
+  - [鍵開け](https://i.gyazo.com/0192c9bc433c0731da5eeef4809091e4.png)
+  - [鍵開け2](https://i.gyazo.com/84099bd4101382963f89994ec58abdd1.png)
+  - [施設の安全点検](https://i.gyazo.com/3325ee0f54aa0dbaa06fd236b50051b2.png)
+  - [施設の安全点検2](https://i.gyazo.com/07b6fd8c49ea46b9f4c407f9b4c5a854.png)
 - 震災救援所の全体運営
   - 運営管理本部会議の開催
   - 運営記録の作成
