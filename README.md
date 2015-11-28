@@ -163,6 +163,9 @@
 
 #### トイレ
 
+![img](https://i.gyazo.com/bd044408ef67932472ae32730d421462.png)
+
+
 ## 7. 初動対応チェックリスト
 
 ![img](https://i.gyazo.com/07cd11c72603b0c821be2efb9a01f5b1.png)
