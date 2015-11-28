@@ -128,6 +128,8 @@
 
 ### 救護・支援部
 
+![img](https://i.gyazo.com/1e1493a3bed8b9f832370bf758fa52ae.png)
+
 #### 救護
 
 #### 支援
