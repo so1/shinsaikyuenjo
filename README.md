@@ -11,23 +11,24 @@
 
 ### ①基本編
 
-震災救援所の組織や各部の主な役割、発災初動期における活動内容等、基本的な事項についてまとめています。
+震災救援所の組織や各部の主な役割、発災初動期における活動内容等、基本的な事項についてまとめています。このマニュアルのことです。
 各部活動の詳細については、以降の個別マニュアルを参照します。  
 ![img](http://www2.city.suginami.tokyo.jp/gallery/namisuke/guide/image/nammy01.JPG)
 
 ### ②個別マニュアル集
 
-各部における主な活動について重要なものを個別マニュアルとして作成しています。個別マニュアルには、 それぞれの実施方針・手順・資料等が記載されています。これを実態に合わせて更新し、より実践的なものに作り上げていきます。
+各部における主な活動について重要なものを[個別マニュアル](http://www2.city.suginami.tokyo.jp/guide/detail/8313/kyuuenjomanual_kanrenyougosyu.pdf)として作成しています。個別マニュアルには、 それぞれの実施方針・手順・資料等が記載されています。これを実態に合わせて更新し、より実践的なものに作り上げていきます。
 ![img](http://www2.city.suginami.tokyo.jp/gallery/namisuke/guide/image/spito01.JPG)
 
 ### ③資料・様式
 
 避難生活のルールです。ルールは状況に合わせて、追記、更新をします。その他は、発災時に使用する様式集です。
 ![img](http://www2.city.suginami.tokyo.jp/gallery/namisuke/guide/image/namiki01.JPG)
+[資料・様式のサンプル](http://www2.city.suginami.tokyo.jp/guide/detail/8313/kyuuenjomanual_siryo-yousiki.pdf)
 
 ### ④災害関連用語集
 
-災害に関し、よく耳にする用語と解説を用語集としてまとめました。  
+災害に関し、よく耳にする用語と解説を[用語集](http://www2.city.suginami.tokyo.jp/guide/detail/8313/kyuuenjomanual_kanrenyougosyu.pdf)として杉並区がまとめました。  
 ![img](http://www2.city.suginami.tokyo.jp/gallery/namisuke/guide/image/taneta01.JPG)
 
 ## 3. 運営管理の基本方針
