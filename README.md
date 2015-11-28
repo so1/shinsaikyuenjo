@@ -128,6 +128,7 @@
  - 他部への資機材提供
   - 照明器具、救助資機材等の受渡し
 
+
 #### 炊き出し
 ![img](https://i.gyazo.com/78360cfb7768fd7445bc406d9cb1f0e1.png)
  - 炊き出しの実施
@@ -139,9 +140,20 @@
 
 #### 救護
 
+![img](https://i.gyazo.com/bd219c880446cd50d85794599b7400de.png)
+
+![img](https://i.gyazo.com/68858e355e0a935e87d96168e10d85f6.png)
+
+![img](https://i.gyazo.com/348866803097634a03da05bfb5f100b5.png)
+
+![img](https://i.gyazo.com/fd2be1e9433b1187c24ac9b1ea3c74e7.png)
+
 #### 支援
 
-#### 援助
+
+#### 救助
+
+![img](https://i.gyazo.com/8f029692e36fcc69ca21bd9aed136bcd.png)
 
 #### 要救護者対応
 
