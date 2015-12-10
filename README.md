@@ -36,6 +36,9 @@
 災害に関し、よく耳にする用語と解説を[用語集](http://www2.city.suginami.tokyo.jp/guide/detail/8313/kyuuenjomanual_kanrenyougosyu.pdf)として杉並区がまとめました。  
 ![img](http://www2.city.suginami.tokyo.jp/gallery/namisuke/guide/image/taneta01.JPG)
 
+### ⑤初動編
+震災がおきた直後にすることについてまとめたマニュアルです。
+
 ## 3. 運営管理の基本方針
 
 杉並区で**震度5強以上**の地震が発生した場合、震災救援所運営連絡会は被災者のために震災救援所を立ち上げます。
